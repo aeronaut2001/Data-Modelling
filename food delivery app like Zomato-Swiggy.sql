@@ -1,4 +1,4 @@
-1. The most popular restaurants in specific locations.
+1. The most popular restaurants in specific locations. 
   
 SELECT
  r.RestaurantID,
